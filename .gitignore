@@ -1,0 +1,78 @@
+# Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.app
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider project files
+.idea/
+
+# VS Code directory
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows thumbnail cache
+*.stackdump
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.dbmdl
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+
+# Paket dependency manager
+.paket/
+paket-files/
+
+# NPM packages
+node_modules/
+
+# Static web assets (Blazor)
+wwwroot/css/app.bundle.css
+wwwroot/css/*.bundle.scp.css
+wwwroot/js/*.bundle.js
+
+# Local development certs
+*.pem
+*.pfx
+*.key
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Visual Studio
+.vs/
+
+# JetBrains Rider
+.idea/
+
+# Backup files
+*~ 
+*.bak
+*.old
+*.orig
+
+# Logs
+*.log
