@@ -28,6 +28,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/HERBERT/Desktop/az/Cliente/MisComponentes/Hola.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzQ29tcG9uZW50ZXNcSG9sYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HERBERT/Desktop/az/Cliente/MisComponentes/MeCago.razor]
+build_metadata.AdditionalFiles.TargetPath = TWlzQ29tcG9uZW50ZXNcTWVDYWdvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HERBERT/Desktop/az/Cliente/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
